@@ -21,6 +21,7 @@ sections:
           label: Last name
           placeholder: Your last name
           width: 1/2
+          name: Last Name Field
         - type: EmailFormControl
           label: Email
           placeholder: Your email
