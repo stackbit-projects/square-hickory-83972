@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-e
     title: The Section Title
     subtitle: The section subtitle!
     text: |-
