@@ -28,6 +28,7 @@ sections:
         - type: CheckboxFormControl
           label: Sign me up to receive updates
           width: full
+      destination: dan.barak@gmail.com
     styles:
       self:
         height: auto
