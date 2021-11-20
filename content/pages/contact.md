@@ -17,6 +17,7 @@ sections:
           label: Name
           placeholder: Your name
           width: 1/2
+          name: Name Field
         - type: TextFormControl
           label: Last name
           placeholder: Your last name
