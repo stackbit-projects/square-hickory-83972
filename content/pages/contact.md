@@ -30,6 +30,15 @@ sections:
         - type: CheckboxFormControl
           label: Sign me up to receive updates
           width: full
+        - name: city
+          label: City
+          defaultValue: Please choose...
+          options:
+            - New York
+            - San Francisco
+          isRequired: false
+          width: full
+          type: SelectFormControl
       destination: dan.barak@gmail.com
     styles:
       self:
