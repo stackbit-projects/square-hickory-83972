@@ -8,17 +8,6 @@
         "isTitleVisible": true,
         "primaryLinks": [
             {
-                "label": "Missing",
-                "altText": "Learn more",
-                "url": "/blog",
-                "showIcon": false,
-                "icon": "arrowLeft",
-                "iconPosition": "right",
-                "style": "link",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "label": "Learn more",
                 "altText": "Learn more",
                 "url": "/",
